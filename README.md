@@ -4,3 +4,5 @@ Student Competition: Predict the bundle of safety features in cars that consumer
 In this competition hosted on Kaggle, teams are predicting the choice of bundles of safety features in cars that was covered in Week 4 of the classes.
 
 My team was placed 9th. 
+
+https://www.kaggle.com/c/the-analytics-edge-summer-2018-competition/overview
